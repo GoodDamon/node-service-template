@@ -1,0 +1,10 @@
+{
+	"aws": {
+		"storage": "S3_HOST",
+		"db": "MONGO_HOST"
+	},
+	"local": {
+		"storage": "../static",
+		"db": "mongodb://localhost/testDB"
+	}
+}
